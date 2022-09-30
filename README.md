@@ -15,3 +15,6 @@ As stated abovo, the main purpose is to provide simple examples for Git training
 This is a simple web projecto, deployment can be on any web or even local file system.
 
 ## How To Contrbibute
+
+## Copyright
+FM.training

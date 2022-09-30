@@ -16,5 +16,7 @@ This is a simple web projecto, deployment can be on any web or even local file s
 
 ## How To Contrbibute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ## Copyright
 FM.training

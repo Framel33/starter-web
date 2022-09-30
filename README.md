@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project for showing how Git and GitHub together.
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes from myfeature branch too.
 ## Introduction
 
 This example is to show different parts of the Gir Repository and various commands using a web project.

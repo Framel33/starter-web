@@ -2,6 +2,7 @@
 
 This is a simple website project for showing how Git and GitHub together.
 Adding a line for rebasing example, then more changes from myfeature branch too.
+Updating emergency fix afer stashing.
 ## Introduction
 
 This example is to show different parts of the Gir Repository and various commands using a web project.

@@ -19,4 +19,4 @@ This is a simple web projecto, deployment can be on any web or even local file s
 Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
-FM.training
+FM.training all rights reserved

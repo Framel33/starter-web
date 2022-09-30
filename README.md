@@ -8,8 +8,10 @@ This example is to show different parts of the Gir Repository and various comman
 
 ## Purpose
 
+As stated abovo, the main purpose is to provide simple examples for Git training demos.
+
 ## Deployment
 
-Sample website with plenty of files for demos
+This is a simple web projecto, deployment can be on any web or even local file system.
 
 ## How To Contrbibute
